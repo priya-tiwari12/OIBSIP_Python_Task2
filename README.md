@@ -1,4 +1,4 @@
-# OIBSIP_Python_Task2
+# OIBSIP_webdevelopment_Task2
 Project Title: Simple Landing Page
 📖 Objective
 The goal of this project is to create a clean and responsive landing page using HTML and CSS. A landing page is a single web page designed to guide visitors toward a specific action — such as learning about a service or clicking a button. This project helps in understanding how to structure webpage sections (like header, hero, features, and footer), and introduces the basics of layout design and user navigation.
